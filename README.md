@@ -29,4 +29,4 @@ If you think you need my help with something or just fancy saying hey, then get 
 
 ### <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xsazzad)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sazzad1337)](https://github.com/anuraghazra/github-readme-stats)
