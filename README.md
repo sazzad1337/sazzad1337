@@ -11,7 +11,7 @@ Currenty I’m a student of Software Engineering department. Also I’m passiona
 I also have skills and experience in Open-source intelligence (OSINT), web penetration testing, social engineering etc.
 If you think you need my help with something or just fancy saying hey, then get in touch.
 ```
-
+![](https://komarev.com/ghpvc/?username=sazzad1337&color=green)
 ### Contacts
 [<img align="left" alt="hacker1" src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=HackerOne&logoColor=white" />][hacker1]
 [<img align="left" alt="bugcrowd" src="https://img.shields.io/badge/Bugcrowd-494649?style=for-the-badge&logo=Bugcrowd&logoColor=ORANGE" />][bugcrowd]
