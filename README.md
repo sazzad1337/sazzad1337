@@ -1,8 +1,11 @@
+<img align="right" alt="GIF" src="/0xSAZZAD.gif?raw=true" width="200" height="200" />
+
 ### Hi, I'm [SAZZAD](http://sazzad.engineer/) 👋
 
 -  🌱 Learning: Cyber Security | Software Engineering
 -  💻 Security Researcher
 -  🎮 Hobby: Video Games
+
 
 
 ### About
