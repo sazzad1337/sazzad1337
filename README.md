@@ -74,8 +74,9 @@ If you think you need my help with something or just fancy saying hey, then get 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![P Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![VM](https://img.shields.io/badge/vmware-696566?style=flat&logo=vmware&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-dd4814?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=White)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 
 
