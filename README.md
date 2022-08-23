@@ -104,4 +104,4 @@ If you think you need my help with something or just fancy saying hey, then get 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> </a>
 -->
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xSAZZAD.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xSAZZAD.png" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/312195" alt="Hack The Box">
