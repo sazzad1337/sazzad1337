@@ -86,6 +86,73 @@ If you think you need my help with something or just fancy saying hey, then get 
 
 
 
+
+
+
+#### PGP
+```yaml
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=QrUB
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
+
+
+
+
+
+
+
+
+
 <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
