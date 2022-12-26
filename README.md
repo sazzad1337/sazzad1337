@@ -171,4 +171,4 @@ H3EB+YI6CsBdLeBIlhyYkb2X0y2yLkYjnl5M5LEt05SkJZEgefPgKbE0XpvLqoHy
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> </a>
 -->
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xSAZZAD.png" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/312195" alt="Hack The Box">
+
